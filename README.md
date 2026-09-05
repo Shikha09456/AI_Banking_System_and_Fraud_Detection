@@ -1081,19 +1081,7 @@ and use one of:
 
 ---
 
-# 📜 License
 
-Add your preferred license before publishing.
-
-For example, if you choose the MIT License:
-
-```text
-MIT License
-```
-
-You can create a `LICENSE` file in the repository and include the complete license text.
-
----
 
 # 👩‍💻 Author
 
